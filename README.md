@@ -1,6 +1,7 @@
 # auto-tests
 ## Установка зависимостей  
 `pip install -r ./requirements.txt`
+`В случае установки под Windows, использоваться доп команду - pip install pdfminer.six `
 
 ## ENV
 `MAIN_PATH - путь до корневой директории`
